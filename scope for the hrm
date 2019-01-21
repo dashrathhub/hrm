@@ -6,3 +6,7 @@ admin
   3 add,edit,delete holidays 
   4 leave request action
   
+user 
+
+1 user can do login
+2 user can apply for leave
