@@ -1,0 +1,5 @@
+first take design
+to changes in designing
+add code and functionality
+save and run 
+upload to server/live
